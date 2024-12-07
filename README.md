@@ -1,5 +1,9 @@
 # 2048 Puzzle Game
 
+## About
+
+The **2048 Puzzle Game** is a modern implementation of the classic sliding tile game where players combine numbers to reach the coveted 2048 tile. Developed using Java and JavaFX, this project showcases the integration of graphical interfaces and logical gameplay mechanics, providing an engaging and interactive experience.
+
 Welcome to the **2048 Puzzle Game**! This is a Java-based implementation of the classic sliding puzzle game, enhanced with a graphical user interface using JavaFX.
 
 ---
